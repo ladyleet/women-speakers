@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+.App-header {
+  background-color: teal;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.Body {
+  margin: 30px;
+}
